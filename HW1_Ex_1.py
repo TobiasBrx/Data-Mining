@@ -173,7 +173,7 @@ plt.legend()
 plt.title("MSE Estimates for different padding mechanisms")
 plt.xlabel("m")
 plt.ylabel("MSE")
-plt.savefig('MSE_Estimates.png')
+#plt.savefig('MSE_Estimates.png')
 plt.show()
 
 ###############################conclusion######################################
